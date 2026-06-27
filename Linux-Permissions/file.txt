@@ -1,0 +1,15 @@
+Linux File Permission Practice
+
+Permission examples:
+
+chmod 777 file.txt
+chmod 755 script.sh
+chmod 644 notes.txt
+
+Owner
+Group
+Others
+
+r = Read
+w = Write
+x = Execute
