@@ -1,0 +1,11 @@
+services:
+
+  frontend:
+    image: nginx
+    ports:
+      - "8085:80"
+
+  backend:
+    image: ubuntu
+    command: sleep 5000
+
